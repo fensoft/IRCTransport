@@ -59,7 +59,8 @@ Features:
 Changelog:
 ----------
 ## Version 0.11.1
-  * fixed nullUSERNAMEnull bug
+  * Fixed nullUSERNAMEnull bug.
+  * Switched to 3 part version numbers.
 
 ### Version 0.11
   * Fixed a potential reload bug.
